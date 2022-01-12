@@ -10,9 +10,9 @@ Connect me on Linkedln
 
 👉https://www.linkedin.com/in/rohit-multani-885b57213/
 
-https://github-readme-stats.vercel.app/api?username=rohitmultani&show_icons=true&theme=tokyonight
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitmultani&show_icons=true&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmultani&theme=tokyonight
-      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmultani&theme=tokyonight)
+
 
 
