@@ -1,5 +1,5 @@
 ### Hi there 👋
-  😉I am a 2nd Year Computer Science & Engineering undergraduate student from Harcourt Butler Technical University, India.
+  😉I am a 2nd Year Computer Science & Engineering undergraduate student from Harcourt Butler Technical University,Kanpur, India.
 
   😇 I’m interested in Web Development and Open Source.
 
