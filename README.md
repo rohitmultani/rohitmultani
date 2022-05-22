@@ -29,7 +29,6 @@ Connect me on Linkedln
 
 </td><td valign="top" width="33%">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rohitmultani)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitmultani&show_icons=true&theme=tokyonight)
 
