@@ -9,7 +9,7 @@
 Connect me on Linkedln
 
 👉https://www.linkedin.com/in/rohit-multani-885b57213/
-### Frontend  
+# Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
