@@ -4,7 +4,7 @@
   😇 I’m interested in Web Development and Open Source.
 
 - 🔭 I’m currently working on Front end projects.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m a React.js Developer
 
 Connect me on Linkedln
 
