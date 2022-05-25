@@ -4,7 +4,7 @@
   😇 I’m interested in Web Development and Open Source.
 
 - 🔭 I’m currently working on Front end projects.
-- 🌱 I’m a React.js Developer
+- 🌱 I’m a React.js Developer.
 
 Connect me on Linkedln
 
@@ -26,7 +26,7 @@ Connect me on Linkedln
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
-
+<br>
 </td><td valign="top" width="33%">
 
 
