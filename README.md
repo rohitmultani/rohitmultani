@@ -30,10 +30,10 @@ Connect me on Linkedln
 <br>
 </td><td valign="top" width="33%">
 
-
+<div align="center">  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitmultani&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmultani&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitmultani&theme=tokyonight)
-
+</div>
