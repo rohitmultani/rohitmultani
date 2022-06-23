@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on Front end projects.
 - 🌱 I’m a React.js Developer.
 
-Connect me on Linkedln
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-multani-885b57213/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://mobile.twitter.com/mr_rohit27) 
 
-👉https://www.linkedin.com/in/rohit-multani-885b57213/
 # Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
