@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on Front end projects.
 - 🌱 I’m a React.js Developer.
+- 🧁 Currently learning redux.
 
 <div align="center">
   
