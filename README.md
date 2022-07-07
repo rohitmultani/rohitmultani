@@ -3,7 +3,7 @@
 
   😇 I’m interested in Web Development and Open Source.
 
-- 🔭 I’m currently working on Front end projects.
+- 🔭 Ping me up for any freelancing work.
 - 🌱 I’m a React.js Developer.
 - 🧁 Currently learning redux,Next.js
 
