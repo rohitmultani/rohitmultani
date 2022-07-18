@@ -5,7 +5,7 @@
 
 - 🔭 Ping me up for any freelancing /contractual work.
 - 🌱 I’m a React.js Developer.
-- 🧁 Currently learning redux,Next.js
+- 🧁 Currently learning Redux,Next.js
 
 <div align="center">
   
