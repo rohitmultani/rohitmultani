@@ -5,7 +5,7 @@
 
 - 🔭 Ping me up for any freelancing /contractual work.
 - 🌱 I’m a Front End Developer (React.js).
-- 🧁 Currently learning Next.js
+- 🧁 Currently learning DSA (C++).
 - 📢 Connect with me
 
 <div align="center">
